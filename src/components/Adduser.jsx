@@ -102,7 +102,7 @@ function Add({ onAddUser }) {
           }
         />
         <Stack direction="row" spacing={2}></Stack>
-        <Button variant="contained" color="success">
+        <Button type="submit" variant="contained" color="success">
           ADD USER
         </Button>
       </form>
